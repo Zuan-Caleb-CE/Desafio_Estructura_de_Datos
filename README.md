@@ -1,4 +1,8 @@
 Selecciona una base de datos (minimo 50 filas máximo 100 filas). ✔
+  ■ Una columna con algún tipo de información geográfica (puede ser el
+  nombre de país, ciudad, o los códigos correspondientes) ✔
+  ■ Una columna con cantidad de eventos (según la base de datos
+  seleccionada) #(creo que si, sino se añadio despues en el metadatos)✔
 
 Crea un DataFrame a partir de un archivo cvs o xlsx.✔
 
