@@ -1,6 +1,6 @@
-Selecciona una base de datos (minimo 50 filas máximo 100 filas).
+Selecciona una base de datos (minimo 50 filas máximo 100 filas). ✔
 
-Crea un DataFrame a partir de un archivo cvs o xlsx.
+Crea un DataFrame a partir de un archivo cvs o xlsx.✔
 
 Guarda el DataFrame como un archivo en excel.
 
