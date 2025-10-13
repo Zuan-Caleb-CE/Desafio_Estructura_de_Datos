@@ -82,6 +82,7 @@ en los análisis realizados
 
 
 Entregables:
+
  ● Código en Python con comentarios que expliquen cada parte del proceso.
  ● Gráficos generados con matplotlib y tablas generadas con pandas.
  ● Un informe en formato PDF que incluya:
