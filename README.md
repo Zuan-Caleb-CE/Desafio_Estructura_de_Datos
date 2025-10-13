@@ -47,37 +47,59 @@ Muestra la interpretación y conclusiones basadas
 en los análisis realizados
 
 1. Definición de objetivo del proyecto
+ 
  ○ Definir el objetivo de análisis con la base de datos elegida, basados en lo que
  indicaron que planean analizar en la primera entrega.
+ 
  ○ Investigar cuál o cuáles variables les sirven para alcanzar el objetivo que se
  proponen si no hay variables para ello cambiar de objetivo.
+ 
 2. Definición de base datos:
+ 
  ○ La base de datos debe tener un mínimo de 50 filas y un máximo de 100 filas
+
  ○ La base de datos debe contener
+  
   ■ Una columna con algún tipo de información geográfica (puede ser el
   nombre de país, ciudad, o los códigos correspondientes)
+  
   ■ Una columna con cantidad de eventos (según la base de datos
   seleccionada)
+  
   ■ Una columna que permita hacer una clasificación por características
   (Género, tipo de película, tipo atacante, tipo de arma, enfermedad,
   etc)
+  
   ■ Dos columnas según el objetivo a alcanzar por cada grupo.
+
 3. Cálculo de Promedios y Desviación Estándar:
+
  ○ Usar Pandas para convertir la base de datos en un DataFrame y calcular:
+ 
   ■ Promedio y desviación de una de las columnas.
+  
   ■ Cantidad de casos por zona geográfica.
+  
   ■ Guardar el DataFrame en un archivo Excel.
+
 4. Filtrado Avanzado:
  ○ Aplicar filtros en los datos para obtener información clave, como:
+
   ■ Países con cantidad de casos superior al promedio. (o variable similar
   según base de datos)
+  
   ■ Eventos sucedidos en un año mayor a 20xx (el valor del año debe ser
   definido por cada grupo)
-5. Visualización de Datos (Gráficos con Matplotlib)
+
+6. Visualización de Datos (Gráficos con Matplotlib)
+ 
  ○ Histograma de la distribución de eventos.
+ 
  ○ Gráfico de barras mostrando la cantidad de eventos según base de datos
  (país, género, edad, etc.)
+ 
  ○ Gráfico de dispersión entre dos variables de la base de datos
+ 
  ○ Todos los gráficos deben tener título, etiqueta en el eje x y en el eje y
 
 
@@ -88,12 +110,19 @@ Entregables:
  ● Gráficos generados con matplotlib y tablas generadas con pandas.
  
  ● Un informe en formato PDF que incluya:
+ 
   ○ Definición del objetivo de análisis planteado
+  
   ○ Descripción de las variables adecuadas para alcanzar el objetivo
+  
   ○ El código fuente (puede ser copiado o pantallazos)
+
   ○ Salidas de los cálculos
+  
   ○ Gráficos y tablas resultantes
+  
   ○ Interpretaciones y conclusiones basadas en los análisis realizados
+  
  ● Video mostrando el funcionamiento del programa
 
 
