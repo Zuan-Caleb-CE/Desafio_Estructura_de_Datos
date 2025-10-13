@@ -1,4 +1,4 @@
-Selecciona una base de datos (minimo 50 filas máximo 100 filas).
+Selecciona una base de datos (minimo 50 filas máximo 100 filas)./n
 
 Crea un DataFrame a partir de un archivo cvs o xlsx.
 
