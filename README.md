@@ -4,7 +4,7 @@ Crea un DataFrame a partir de un archivo cvs o xlsx.✔
 
 Guarda el DataFrame como un archivo en excel.✔
 
-Contiene columnas con metadatos.
+Contiene columnas con metadatos.✔1; necesita mas
 
 Contiene una columna que permita hacer una clasificación.
 
