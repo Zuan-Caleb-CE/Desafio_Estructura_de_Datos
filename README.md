@@ -84,14 +84,16 @@ en los análisis realizados
 Entregables:
 
  ● Código en Python con comentarios que expliquen cada parte del proceso.
+ 
  ● Gráficos generados con matplotlib y tablas generadas con pandas.
+ 
  ● Un informe en formato PDF que incluya:
- ○ Definición del objetivo de análisis planteado
- ○ Descripción de las variables adecuadas para alcanzar el objetivo
- ○ El código fuente (puede ser copiado o pantallazos)
- ○ Salidas de los cálculos
- ○ Gráficos y tablas resultantes
- ○ Interpretaciones y conclusiones basadas en los análisis realizados
+  ○ Definición del objetivo de análisis planteado
+  ○ Descripción de las variables adecuadas para alcanzar el objetivo
+  ○ El código fuente (puede ser copiado o pantallazos)
+  ○ Salidas de los cálculos
+  ○ Gráficos y tablas resultantes
+  ○ Interpretaciones y conclusiones basadas en los análisis realizados
  ● Video mostrando el funcionamiento del programa
 
 
