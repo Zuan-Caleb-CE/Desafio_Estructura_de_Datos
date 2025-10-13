@@ -6,27 +6,27 @@ Guarda el DataFrame como un archivo en excel.✔
 
 Contiene columnas con metadatos.✔1; necesita mas
 
-Contiene una columna que permita hacer una clasificación.
+Contiene una columna que permita hacer una clasificación.✔ (empresa)
 
 Contiene dos columnas con metadatos adicionales.
 
-Calcula el promedio de los eventos, datos o variables.
+Calcula el promedio de los eventos, datos o variables.✔ 
 
 Calcula la desviación estándar de los eventos, datos o variables.
 
 Filtra datos con cantidad de casos superior al promedio.
 
-Filtrar eventos sucedidos en un año mayor a 20xx
+Filtrar eventos sucedidos en un año mayor a 20xx (Sugeto a cambio de filtro [año cambiar a por hora de despache])
 
 (definido por el grupo).
 
-Muestra los productos de una categoría específica.
+Muestra los productos de una categoría específica. ✔ Datos de las empresas en especifico
 
-Muestra los resultados en un formato tabular usando pandas(organizar y mostrar los datos en forma de una tabla estructurada).
+Muestra los resultados en un formato tabular usando pandas(organizar y mostrar los datos en forma de una tabla estructurada). (Puede modificarse la manera en que se muestran los datos de las empresas)
 
 Crea un histograma de la distribución de determinado evento, dato o variable.
 
-Crea un gráfico de barras mostrando la cantidad de eventos, datos o variables.
+Crea un gráfico de barras mostrando la cantidad de eventos, datos o variables. ✔ (la cantidad de buses de cada empresa disponen en cada terminal)
 
 Crea un gráfico de dispersión entre eventos, datos o variables.
 
