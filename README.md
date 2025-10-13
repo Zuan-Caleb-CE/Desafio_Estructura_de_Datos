@@ -2,7 +2,7 @@ Selecciona una base de datos (minimo 50 filas máximo 100 filas). ✔
 
 Crea un DataFrame a partir de un archivo cvs o xlsx.✔
 
-Guarda el DataFrame como un archivo en excel.
+Guarda el DataFrame como un archivo en excel.✔
 
 Contiene columnas con metadatos.
 
