@@ -1,8 +1,4 @@
 Selecciona una base de datos (minimo 50 filas máximo 100 filas). ✔
-  ■ Una columna con algún tipo de información geográfica (puede ser el
-  nombre de país, ciudad, o los códigos correspondientes) ✔
-  ■ Una columna con cantidad de eventos (según la base de datos
-  seleccionada) #(creo que si, sino se añadio despues en el metadatos)✔
 
 Crea un DataFrame a partir de un archivo cvs o xlsx.✔
 
@@ -38,6 +34,17 @@ Los gráficos tienen título y etiquetas en los ejes.
 
 El código en Python está documentado, explicando cada parte del proceso.
 
+Formato PDF.
+
+Código documentado.
+
+Muestra la salidas de los cálculos.
+
+Muestra gráficos y tablas resultantes.
+
+Muestra la interpretación y conclusiones basadas
+
+en los análisis realizados
 
 
 
