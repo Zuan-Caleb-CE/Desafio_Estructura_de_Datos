@@ -34,7 +34,9 @@ Los gráficos tienen título y etiquetas en los ejes.
 
 El código en Python está documentado, explicando cada parte del proceso.
 
-Formato PDF.
+## LO ULTIMO
+
+Formato PDF. el ipynb se puede hacer pdf ✔
 
 Código documentado.
 
