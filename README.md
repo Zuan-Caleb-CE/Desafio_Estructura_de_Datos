@@ -12,7 +12,7 @@ Contiene dos columnas con metadatos adicionales.✔
 
 Calcula el promedio de los eventos, datos o variables.✔ 
 
-Calcula la desviación estándar de los eventos, datos o variables.
+Calcula la desviación estándar de los eventos, datos o variables.✔
 
 Filtra datos con cantidad de casos superior al promedio.✔
 
