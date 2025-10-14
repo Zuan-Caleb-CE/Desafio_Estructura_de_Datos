@@ -4,17 +4,17 @@ Crea un DataFrame a partir de un archivo cvs o xlsx.✔
 
 Guarda el DataFrame como un archivo en excel.✔
 
-Contiene columnas con metadatos.✔1; necesita mas
+Contiene columnas con metadatos.✔
 
 Contiene una columna que permita hacer una clasificación.✔ (empresa)
 
-Contiene dos columnas con metadatos adicionales.
+Contiene dos columnas con metadatos adicionales.✔
 
 Calcula el promedio de los eventos, datos o variables.✔ 
 
 Calcula la desviación estándar de los eventos, datos o variables.
 
-Filtra datos con cantidad de casos superior al promedio.
+Filtra datos con cantidad de casos superior al promedio.✔
 
 Filtrar eventos sucedidos en un año mayor a 20xx (Sugeto a cambio de filtro [año cambiar a por hora de despache])
 
