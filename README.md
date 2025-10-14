@@ -16,7 +16,7 @@ Calcula la desviación estándar de los eventos, datos o variables.✔
 
 Filtra datos con cantidad de casos superior al promedio.✔
 
-Filtrar eventos sucedidos en un año mayor a 20xx (Sugeto a cambio de filtro [año cambiar a por hora de despache](definido por el grupo).A MEDIO FUNCIONAR; CORREGIR
+Filtrar eventos sucedidos en un año mayor a 20xx (Sugeto a cambio de filtro [año cambiar a por hora de despache](definido por el grupo).✔
 
 Muestra los productos de una categoría específica. ✔ Datos de las empresas en especifico
 
