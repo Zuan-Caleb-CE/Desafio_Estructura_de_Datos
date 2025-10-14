@@ -30,11 +30,12 @@ Crea un gráfico de barras mostrando la cantidad de eventos, datos o variables. 
 
 Crea un gráfico de dispersión entre eventos, datos o variables.
 
+
+## LO ULTIMO
+
 Los gráficos tienen título y etiquetas en los ejes.
 
 El código en Python está documentado, explicando cada parte del proceso.
-
-## LO ULTIMO
 
 Formato PDF. el ipynb se puede hacer pdf ✔
 
