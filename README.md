@@ -22,11 +22,11 @@ Muestra los productos de una categoría específica. ✔ Datos de las empresas e
 
 Muestra los resultados en un formato tabular usando pandas(organizar y mostrar los datos en forma de una tabla estructurada). (Puede modificarse la manera en que se muestran los datos de las empresas)
 
-Crea un histograma de la distribución de determinado evento, dato o variable.
+Crea un histograma de la distribución de determinado evento, dato o variable.✔
 
 Crea un gráfico de barras mostrando la cantidad de eventos, datos o variables. ✔ (la cantidad de buses de cada empresa disponen en cada terminal)
 
-Crea un gráfico de dispersión entre eventos, datos o variables.
+Crea un gráfico de dispersión entre eventos, datos o variables.✔
 
 
 ## LO ULTIMO
