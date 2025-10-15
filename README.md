@@ -20,18 +20,17 @@ Filtrar eventos sucedidos en un año mayor a 20xx (Sugeto a cambio de filtro [a�
 
 Muestra los productos de una categoría específica. ✔ Datos de las empresas en especifico
 
-Muestra los resultados en un formato tabular usando pandas(organizar y mostrar los datos en forma de una tabla estructurada). (Puede modificarse la manera en que se muestran los datos de las empresas)
+Muestra los resultados en un formato tabular usando pandas(organizar y mostrar los datos en forma de una tabla estructurada). ✔
 
 Crea un histograma de la distribución de determinado evento, dato o variable.✔
 
-Crea un gráfico de barras mostrando la cantidad de eventos, datos o variables. ✔ (la cantidad de buses de cada empresa disponen en cada terminal)
-
+Crea un gráfico de barras mostrando la cantidad de eventos, datos o variables. ✔ 
 Crea un gráfico de dispersión entre eventos, datos o variables.✔
 
 
 ## LO ULTIMO
 
-Los gráficos tienen título y etiquetas en los ejes.
+Los gráficos tienen título y etiquetas en los ejes. ✔
 
 El código en Python está documentado, explicando cada parte del proceso.
 
@@ -39,9 +38,9 @@ Formato PDF. el ipynb se puede hacer pdf ✔
 
 Código documentado.
 
-Muestra la salidas de los cálculos.
+Muestra la salidas de los cálculos. ✔
 
-Muestra gráficos y tablas resultantes.
+Muestra gráficos y tablas resultantes. ✔
 
 Muestra la interpretación y conclusiones basadas
 
@@ -57,7 +56,7 @@ en los análisis realizados
  
 2. Definición de base datos:
  
- ○ La base de datos debe tener un mínimo de 50 filas y un máximo de 100 filas
+ ○ La base de datos debe tener un mínimo de 50 filas y un máximo de 100 filas ✔
 
  ○ La base de datos debe contener
   
